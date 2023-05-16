@@ -1,9 +1,9 @@
 body {
-    background-color: #F9F5EB;
+    background-color: #394867;
 }
 
 hr{
-    background-color: #F9F5EB;
+    background-color: #394867;
     border-style: dotted none none;
     border-width: 8px;
     border-color: #E4DCCF;
@@ -12,8 +12,39 @@ hr{
 
 h1{
     color: #002B5B;
+    background-color: #F1F6F9;
+    border: 5px solid #9BA4B5;
+    padding: 6px;
+    font-family: 'Dancing Script', cursive;
 }
 
 h3{
+    background-color: #212A3E;
     color: #EA5455;
+    padding-left: 3px;
 }
+
+.font
+{
+    color: aliceblue;
+}
+
+
+#main
+{
+    border: 2px solid #F1F6F9;
+    color: aliceblue;
+}
+
+a
+{
+    color: #B0DAFF;
+}
+
+th
+{
+    color: #EA5455;
+    background-color: #212A3E;
+    margin: 3px;
+}
+
